@@ -4,3 +4,4 @@ node_js:
 deploy:
     provider: heroku
     app: shereyourideas
+    api_key: 72ab3977-c816-49ae-a00e-1dcfdb17c7a2
